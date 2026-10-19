@@ -7,7 +7,7 @@ description: Thoughtfully crafted utilities and tools for Image, Audio and Video
 <style>
   .app-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: 1fr; /* Forces exactly one column taking full width */
     gap: 1.5rem;
     margin: 2rem 0;
   }
