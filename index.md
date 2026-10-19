@@ -89,7 +89,8 @@ description: Thoughtfully crafted utilities and tools for Image, Audio and Video
 
 ## Crafted exclusively for macOS
 
-Focused, lightweight, and native tools built to boost productivity and enhance your everyday workflow for Image, Audio and Video
+<!--Focused, lightweight, and native tools built to boost productivity and enhance your everyday workflow for Image, Audio and Video -->
+Thoughtfully crafted utilities and tools for enhancing your Image, Audio and Video workflows.
 
 <div class="app-grid">
   
