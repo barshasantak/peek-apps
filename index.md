@@ -148,6 +148,14 @@ Peek-Apps is a trinity of crafted utilities for enhancing your Image, Audio and 
 
  <br>
 
+It’s not just a toolkit; it's a permanent badge of professional assurance. When you hit Deliver, you will never have to cross your fingers again.
+
+Elevate your craft. See what others miss.
+
+🍎 Download the [Peek-Apps Bundle on the Mac App Store](https://apps.apple.com/us/app-bundle/peek-apps/id6824282225?mt=12) today and bring studio-grade precision to your workflow.
+
+ <br>
+ 
 ### Need Support or Have Feedback?
 Contact us by creating an issue for the respective app at [https://forms.gle/XDUkjJ2TJzEruakX9](https://forms.gle/XDUkjJ2TJzEruakX9).
 
