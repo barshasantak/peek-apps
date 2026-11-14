@@ -90,12 +90,14 @@ description: Thoughtfully crafted utilities and tools for Image, Audio and Video
 ## Crafted exclusively for macOS
 
 <!--Focused, lightweight, and native tools built to boost productivity and enhance your everyday workflow for Image, Audio and Video -->
-Modern creative work doesn't happen in single formats. Video editors balance pristine mixdowns. Photographers deliver cinematic motion. 
-Audio engineers master against locked picture. Media doesn't live in isolated boxes and hence your inspection tools shouldn't either.
- 
-Creative pipelines are completely fluid. We grade footage in the morning, inspect print-ready key art in the afternoon, 
-and master audio stems before wrapping up. Your deliverables span the full digital spectrum and your quality control should too.
-Peek-Apps is a trinity of crafted utilities for enhancing your Image, Audio and Video workflows available as one bundle on the App Store. 
+Modern creative work doesn’t happen in a single format. Video editors balance pristine mixdowns. 
+Photographers deliver cinematic motion. Audio engineers master against locked picture. 
+Media doesn’t live in silos—and your inspection tools shouldn’t either.
+
+Today’s pipelines are fluid. You grade footage in the morning, inspect print-ready key art in the afternoon,
+and master audio stems before wrap. When your deliverables span the full digital spectrum, your quality control has to match.
+
+**Peek-Apps** is a trinity of crafted utilities built for Image, Audio, and Video workflows—available as one unified bundle on the App Store.
  
 <div class="app-grid">
   
