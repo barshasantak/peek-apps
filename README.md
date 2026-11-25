@@ -1,9 +1,9 @@
 # peek-apps
 Peek Apps (Image-Peek, Audio-Peek and Video-Peek) 
- 
- 
-![peek-apps](https://raw.githubusercontent.com/barshasantak/peek-apps/main/assets/icons/peek-apps.png)
   
+![peek-apps](https://raw.githubusercontent.com/barshasantak/peek-apps/main/assets/icons/peek-apps.png)
+
+<br>
   
 Modern creative work doesn’t happen in a single format. Video editors balance pristine mixdowns. Photographers deliver cinematic motion. Audio engineers master against locked picture. Media doesn’t live in silos—and your inspection tools shouldn’t either.
 
